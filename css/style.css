@@ -439,7 +439,11 @@ header .logo {
         #contact .contact-info{
             font-size: 27px;
         }
+        #contact .contact-info a.mail{
+          font-size: 20px;
+        }
 }
+
 
 /* footer
     1. color
